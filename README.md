@@ -169,7 +169,7 @@ class AyoubBakkouri:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-bakkouri&theme=tokyo-night&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-bakkouri&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&area=true&area_color=6E40C9&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
 
 </div>
 
