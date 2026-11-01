@@ -4,13 +4,13 @@
 <div align="center">
 
 <!-- Profile Image (GitHub Avatar — always available) -->
-<img src="https://github.com/ayoub-dev36.png?size=150" width="150" alt="Ayoub Bakkouri" />
+<img src="https://github.com/ayoub-bakkouri.png?size=150" width="150" alt="Ayoub Bakkouri" />
 
 <h2>Ayoub Bakkouri</h2>
 <p><em>Data Engineer &amp; Analyst &mdash; Business Intelligence</em></p>
 
 <!-- Animated Typing -->
-<a href="https://github.com/ayoub-dev36">
+<a href="https://github.com/ayoub-bakkouri">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=720&lines=Data+Engineering+%7C+Analytics+%7C+BI;ETL+Pipelines+-+Dashboards+-+Data-Driven+Decisions;Open+to+Internships+%26+BI+%2F+Data+Opportunities" alt="Typing SVG" />
 </a>
 
