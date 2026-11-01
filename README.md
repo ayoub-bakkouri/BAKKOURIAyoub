@@ -23,7 +23,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%7C%20Analytics%20%7C%20BI-6E40C9?style=flat-square&labelColor=0D1117" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ayoub-dev36&label=Profile+Views&color=6E40C9&style=flat-square&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=ayoub-bakkouri&label=Profile+Views&color=6E40C9&style=flat-square&labelColor=0D1117" />
 
 </div>
 
@@ -159,7 +159,7 @@ class AyoubBakkouri:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ayoub-dev36&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=6E40C9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ayoub-bakkouri&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=6E40C9" alt="GitHub Streak" />
 
 </div>
 
@@ -169,7 +169,7 @@ class AyoubBakkouri:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-dev36&theme=tokyo-night&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-bakkouri&theme=tokyo-night&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -187,7 +187,7 @@ class AyoubBakkouri:
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/ayoub-dev36">
+<a href="https://github.com/ayoub-bakkouri">
   <img src="https://img.shields.io/badge/GitHub-ayoub--dev36-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
