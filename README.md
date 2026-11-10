@@ -1,99 +1,92 @@
-<!-- Header Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=header" />
+<!-- ============================================================
+  GitHub profile README: Ayoub Bakkouri
+  Put this file in a PUBLIC repo named exactly: ayoub-bakkouri
+  (same as your username). Replace every [PLACEHOLDER].
+============================================================= -->
 
-<div align="center">
+<!-- 3D HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Ayoub%20Bakkouri&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Data%20Engineer%20%7C%20Business%20Intelligence&descSize=22&descAlignY=60&stroke=00d4ff&strokeWidth=2" width="100%"/>
+</p>
 
-<!-- Profile Image (GitHub Avatar — always available) -->
-<img src="https://github.com/ayoub-bakkouri.png?size=150" width="150" alt="Ayoub Bakkouri" />
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://github.com/ayoub-bakkouri">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+scalable+cloud+data+platforms;Designing+ETL+%2F+ELT+pipelines;Turning+raw+data+into+business+insights;Dashboards+that+drive+decisions" alt="Typing SVG" />
+  </a>
+</p>
 
-<h2>Ayoub Bakkouri</h2>
-<p><em>Data Engineer &amp; Analyst &mdash; Business Intelligence</em></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Casablanca%2C%20Morocco-0f2027?style=for-the-badge&logo=googlemaps&logoColor=00d4ff" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea043?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=ayoub-bakkouri&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+</p>
 
-<!-- Animated Typing -->
-<a href="https://github.com/ayoub-bakkouri">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=720&lines=Data+Engineering+%7C+Analytics+%7C+BI;ETL+Pipelines+-+Dashboards+-+Data-Driven+Decisions;Open+to+Internships+%26+BI+%2F+Data+Opportunities" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/Morocco-Based-6E40C9?style=flat-square&labelColor=0D1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&labelColor=0D1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%7C%20Analytics%20%7C%20BI-6E40C9?style=flat-square&labelColor=0D1117" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ayoub-bakkouri&label=Profile+Views&color=6E40C9&style=flat-square&labelColor=0D1117" />
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:[YOUR-EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://[YOUR-PORTFOLIO]"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=00d4ff"/></a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```python
-class AyoubBakkouri:
-    degree   = "M.Sc. Machine Learning & Intelligent Multimedia"
-    location = "Morocco"
-    focus    = ["Data Engineering", "Business Intelligence", "Data Analytics",
-                "ETL Pipelines", "Cloud Data Platforms"]
-    learning = ["Power BI Advanced", "dbt (data build tool)", "Snowflake", "Data Modeling"]
-    looking  = "Data Engineer | Data Analyst | BI Developer Internship"
-    motto    = "Turn raw data into decisions. Build pipelines that scale."
+```yaml
+name:        Ayoub Bakkouri
+role:        Cloud Data Engineer & Business Intelligence Developer
+location:    Casablanca, Morocco 🇲🇦
+focus:       Data pipelines · Data warehousing · Cloud architecture · BI & analytics
+currently:   [What you are working on / learning, e.g. Databricks, dbt, Terraform]
+languages:   Arabic · French · English
 ```
 
-- 🎓 **Master's** in Machine Learning & Intelligent Multimedia
-- 🔭 Currently building **end-to-end data pipelines**, **BI dashboards**, and **analytics solutions**
-- 🌱 Deepening expertise in **Data Modeling**, **Power BI**, **dbt**, **Business Intelligence**, and **cloud-native data platforms**
-- 🤝 Open to collaboration on **data engineering**, **analytics**, and **BI projects**
-- ⚡ Believer in clean data architecture, reproducible workflows, and end-to-end data ownership
+I design and operate **cloud-native data platforms** and turn complex datasets into **clear, actionable dashboards**.
+From ingestion to visualization, I care about **reliability, performance, and cost-efficiency**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 💻 Programming & Query Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### ☁️ Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp&perline=10" />
+</p>
 
-### 📊 Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🔄 Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=python,spark,kafka,airflow,postgres,mysql,mongodb,snowflake&perline=10" />
+</p>
 
-### 🔬 Data Analysis & Processing
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 📊 Business Intelligence
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-0f2027?style=for-the-badge&logo=microsoftexcel&logoColor=00d4ff"/>
+</p>
 
-### 🏗️ Data Engineering & ETL
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,git,github,githubactions,linux,vscode&perline=10" />
+</p>
 
-### 🗄️ Databases & Data Warehousing
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+---
 
-### 🤖 AI / Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+## 🏗️ Data Architecture I Work With
 
-### 🚀 DevOps & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```mermaid
+flowchart LR
+    A[(Sources<br/>APIs · DBs · Files)] --> B[Ingestion<br/>Kafka · ADF · Airbyte]
+    B --> C[(Data Lake<br/>S3 · ADLS · GCS)]
+    C --> D[Transformation<br/>Spark · dbt · SQL]
+    D --> E[(Data Warehouse<br/>Snowflake · BigQuery · Synapse)]
+    E --> F[BI Layer<br/>Power BI · Tableau]
+    G{{Orchestration<br/>Airflow}} -.-> B
+    G -.-> D
+    H{{IaC · CI/CD<br/>Terraform · GitHub Actions}} -.-> C
+    H -.-> E
+```
 
 ---
 
@@ -102,100 +95,73 @@ class AyoubBakkouri:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ Azure End-to-End Data Pipeline</h3>
-      <p>
-        A fully automated <strong>data engineering pipeline</strong> on Microsoft Azure: ingestion via Azure Data Factory, transformation with Databricks &amp; PySpark, storage in Data Lake Gen2, and analytics-ready output with Synapse Analytics.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-      </p>
+      <h3>📦 [Project 1 name]</h3>
+      <p>[One-line description: problem, solution, impact.]</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></p>
+      <a href="https://github.com/ayoub-bakkouri/[repo-1]">🔗 View repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 BI Dashboard &amp; Analytics</h3>
-      <p>
-        An interactive <strong>Business Intelligence</strong> solution with Power BI dashboards delivering KPIs, trend analysis, and executive-level reporting. Built on a star-schema data model with automated ETL refresh.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
-      </p>
+      <h3>📊 [Project 2 name]</h3>
+      <p>[One-line description: problem, solution, impact.]</p>
+      <p><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/></p>
+      <a href="https://github.com/ayoub-bakkouri/[repo-2]">🔗 View repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 RAG-Powered Data Q&amp;A System</h3>
-      <p>
-        A <strong>Retrieval-Augmented Generation</strong> pipeline enabling natural-language queries over structured and unstructured data. Combines vector search with LLM-powered responses for self-service analytics.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
+      <h3>☁️ [Project 3 name]</h3>
+      <p>[One-line description: problem, solution, impact.]</p>
+      <p><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></p>
+      <a href="https://github.com/ayoub-bakkouri/[repo-3]">🔗 View repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📡 More Coming Soon</h3>
-      <p>
-        Always building. Next up: <strong>real-time streaming analytics</strong>, <strong>dbt data models</strong>, and <strong>cloud-native BI solutions</strong>.
-      </p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/In_Progress-6E40C9?style=flat-square&logo=githubactions&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stay_Tuned-FF6B6B?style=flat-square"/>
-      </p>
+      <h3>⚡ [Project 4 name]</h3>
+      <p>[One-line description: problem, solution, impact.]</p>
+      <p><img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></p>
+      <a href="https://github.com/ayoub-bakkouri/[repo-4]">🔗 View repository</a>
     </td>
   </tr>
 </table>
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayoub-bakkouri&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=6E40C9" alt="GitHub Streak" />
-
-</div>
+> 💡 Tip: you can also pin repos automatically with
+> `https://github-readme-stats.vercel.app/api/pin/?username=ayoub-bakkouri&repo=[repo]&theme=radical`
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayoub-bakkouri&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-bakkouri&layout=compact&theme=radical&hide_border=true&bg_color=0f2027&title_color=00d4ff&text_color=ffffff" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-bakkouri&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&area=true&area_color=6E40C9&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-bakkouri&theme=radical&hide_border=true&background=0f2027&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🧊 3D Contribution Graph
 
-<div align="center">
+<!-- Generated automatically by the GitHub Action in the setup guide below -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%"/>
+</p>
 
-<a href="https://www.linkedin.com/in/ayoub-bakkouri" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Bakkouri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:ayoub.bakkouri@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/ayoub-bakkouri">
-  <img src="https://img.shields.io/badge/GitHub-ayoub--dev36-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+---
 
-<br/><br/>
+## 🎯 Currently
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=6E40C9&center=true&vCenter=true&width=620&lines=Open+to+Data+Engineer+%7C+Analyst+%7C+BI+Developer+internships.;Let%27s+turn+data+into+impactful+decisions+together." alt="Footer Typing" />
+- 🔭 Working on **[current project]**
+- 🌱 Learning **[e.g. Databricks · dbt · Data Mesh]**
+- 🏅 Certifications: **[e.g. Azure DP-203 · AWS Data Engineer · PL-300]**
+- 💬 Ask me about **cloud data platforms, ETL/ELT, data modeling, Power BI**
+- ⚡ Fun fact: **[something personal]**
 
-</div>
+---
 
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center"><i>"Data is only valuable when it drives a decision."</i></p>
