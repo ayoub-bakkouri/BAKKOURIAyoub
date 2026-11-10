@@ -1,22 +1,36 @@
-name: GitHub-Profile-3D-Contrib
+name: Update profile
+
 on:
-  schedule: [{cron: "0 18 * * *"}]
-  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"   # every day at 03:00 UTC
+  workflow_dispatch:       # manual run button
+
 permissions:
   contents: write
+
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ayoub-bakkouri
-      - name: Commit
+
+      - name: Update projects section
+        run: python scripts/update_readme.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ayoub-bakkouri
+
+      - name: Commit changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add -A profile-3d-contrib
-          git commit -m "update 3D contrib" || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md profile-3d-contrib
+          git commit -m "chore: update projects and 3D graph" || echo "Nothing to commit"
           git push
